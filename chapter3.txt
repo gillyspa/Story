@@ -1,0 +1,1 @@
+"open" is native on OS X, on linux you can just define it as alias open=xdg-open, on windows I think the equivalent is "start". Hunt up how to associate file types with programs
